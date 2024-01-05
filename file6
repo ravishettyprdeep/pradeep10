@@ -1,0 +1,9 @@
+linux is a operrating system is free and open source to use it have has high security 
+cat/etc/passwd is used to see either the users are created or not
+cat/ect/shadow is used to see the passwd created for thr user 
+cat/ect/gshadow is used t see the group admin
+cat/etc/group is used to see that group is created or not
+-L is used to lock the user in group
+-U is used to unlock the user in the group
+-u is used to create a user with prticular number
+usermod -u is used to change the number created for the user
